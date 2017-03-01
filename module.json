@@ -1,0 +1,9 @@
+{
+  "id" : "module",
+  "name" : "Hello World",
+  "menu" : {
+    "position" : "left",
+    "order" : 500,
+    "icon" : "puzzle-piece"
+    }
+}
